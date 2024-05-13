@@ -24,7 +24,7 @@ To use this program, follow these steps:
 
 ## Example
 Below is an example of the summarized sales data format:
-![Program Flow](Azeemshah99/Sales_Mall_Submission/Program_Flow.png)
+![Program Flow](https://github.com/Azeemshah99/Sales_Mall_Submission/Program_Flow.png)
 
 ## Contributors
 - John Doe (@johndoe)
