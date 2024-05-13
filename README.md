@@ -24,7 +24,7 @@ To use this program, follow these steps:
 
 ## Example
 Below is an example of the summarized sales data format:
-![Sales Data Summary](images/sales_data_summary.png)
+![Sales Data Summary](images/Program_Flow.png)
 
 ## Contributors
 - John Doe (@johndoe)
