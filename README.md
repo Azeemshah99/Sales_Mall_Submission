@@ -25,10 +25,3 @@ To use this program, follow these steps:
 ## Example
 Below is an example of the summarized sales data format:
 ![Program Flow](https://github.com/Azeemshah99/Sales_Mall_Submission/blob/main/Flow_Sales_Submission.png)
-
-## Contributors
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
